@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnab123dotcom
-- 👀 I’m interested in ...Web Developement
-- 🌱 I’m currently learning ...Web Developement
+- 👀 I’m interested in ...Machine Learning
+- 🌱 I’m currently learning ...Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on ...Youtube
 - 📫 How to reach me ... I don't know
 
